@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, my name is Aidan Tambling!
 
 <!--
 **aidantambling/aidantambling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

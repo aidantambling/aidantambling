@@ -1,5 +1,9 @@
 ### Hi there <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, my name is Aidan Tambling!
 
+I'm a third year Computer Science student at the University of Florida! I am interested in all kinds of development, from full-stack to AI/ML. Please check out my pinned repositories below to see my favorite projects, or visit my website at: https://aidantambling.github.io/
+
+Thank you for your time!
+
 Toolbox
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++ logo" width="50" height="50"> <img 
